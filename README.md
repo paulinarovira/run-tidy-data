@@ -1,8 +1,8 @@
-================================================================================
+================================================
 Run Analyisis script (run-tidy-data)
-================================================================================
+===================================================
 Paulina Rovira  paulina.rovira@gmail.com
-================================================================================
+====================================================
 
 This script has been created for the Getting and Cleaning Data course Project 
 to create a tidy data set from the Human Activity Recognition Using Smartphones 
@@ -62,7 +62,8 @@ Code for reading the data set to R:
 You can use the following code to read the tidy data set to R:
 
 data <- read.table(file_path, header = TRUE) 
+
 View(data)
 
-==================================================================================================
+===============================================
 Paulina Rovira. December 2020.
