@@ -30,97 +30,125 @@ TimeDomainBodyAccelerationMeanX
        Units: 'g's (gravity of earth -> 9.80665 m/seg2)
 
 TimeDomainBodyAccelerationMeanY   
+        
         Average of the Means of the Linear Body Acceleration in direction Y of 
         the subject in the time domain
-                num     Units: 'g's (gravity of earth -> 9.80665 m/seg2)
+        
+        num     
+        
+        Units: 'g's (gravity of earth -> 9.80665 m/seg2)
 
 TimeDomainBodyAccelerationMeanZ   
+        
         Average of the Means of the Linear Body Acceleration in direction Z of 
-        the subject in the time domain
-                num     Units: 'g's (gravity of earth -> 9.80665 m/seg2)
+              the subject in the time domain
+                
+        num     
+        
+        Units: 'g's (gravity of earth -> 9.80665 m/seg2)
 
 TimeDomainBodyAccelerationStandardDeviationX
+        
         Average of the Standard Deviations of the Linear Body Acceleration in 
         direction X of the subject in the time domain
-                num     Units: 'g's (gravity of earth -> 9.80665 m/seg2)
+                
+        num     
+        
+        Units: 'g's (gravity of earth -> 9.80665 m/seg2)
 
 TimeDomainBodyAccelerationStandardDeviationY
+        
         Average of the Standard Deviations of the Linear Body Acceleration in 
         direction Y of the subject in the time domain
                 num     Units: 'g's (gravity of earth -> 9.80665 m/seg2)
 
 TimeDomainBodyAccelerationStandardDeviationZ
-        Average of the Standard Deviations of the Linear Body Acceleration in 
+       
+       Average of the Standard Deviations of the Linear Body Acceleration in 
         direction Z of the subject in the time domain
                 num     Units: 'g's (gravity of earth -> 9.80665 m/seg2)
 
 TimeDomainGravityAccelerationMeanX
-        Average of the Means of the Gravity Acceleration in direction X of the 
+       
+       Average of the Means of the Gravity Acceleration in direction X of the 
         subject in the time domain
                 num     Units: 'g's (gravity of earth -> 9.80665 m/seg2)
 
 TimeDomainGravityAccelerationMeanY
+        
         Average of the Means of the Gravity Acceleration in direction Y of the 
         subject in the time domain
                 num     Units: 'g's (gravity of earth -> 9.80665 m/seg2)
 
 TimeDomainGravityAccelerationMeanZ
+        
         Average of the Means of the Gravity Acceleration in direction Z of the 
         subject in the time domain
                 num     Units: 'g's (gravity of earth -> 9.80665 m/seg2)
 
 TimeDomainGravityAccelerationStandardDeviationX
-        Average of the Standard Deviations of the Gravity Acceleration in 
+       
+       Average of the Standard Deviations of the Gravity Acceleration in 
         direction X of the subject in the time domain
                 num     Units: 'g's (gravity of earth -> 9.80665 m/seg2)
 
 TimeDomainGravityAccelerationStandardDeviationY
+        
         Average of the Standard Deviations of the Gravity Acceleration in 
         direction Y of the subject in the time domain
                 num     Units: 'g's (gravity of earth -> 9.80665 m/seg2)
 
 TimeDomainGravityAccelerationStandardDeviationZ
+        
         Average of the Standard Deviations of the Gravity Acceleration in 
         direction Z of the subject in the time domain
                 num     Units: 'g's (gravity of earth -> 9.80665 m/seg2)
 
 TimeDomainBodyAccelerationJerkSignalMeanX
+        
         Average of the Means of the Jerk Signal of the Body Acceleration in 
         direction X of the subject in the time domain
                 num     Units: 'g's (gravity of earth -> 9.80665 m/seg2)
 
 TimeDomainBodyAccelerationJerkSignalMeanY
+        
         Average of the Means of the Jerk Signal of the Body Acceleration in 
         direction Y of the subject in the time domain
                 num     Units: 'g's (gravity of earth -> 9.80665 m/seg2)
 
 TimeDomainBodyAccelerationJerkSignalMeanZ
+        
         Average of the Means of the Jerk Signal of the Body Acceleration in 
         direction Z of the subject in the time domain
                 num     Units: 'g's (gravity of earth -> 9.80665 m/seg2)
 
 TimeDomainBodyAccelerationJerkSignalStandardDeviationX
-        Average of the Standard Deviations of the Jerk Signal of the Body 
+       
+       Average of the Standard Deviations of the Jerk Signal of the Body 
         Acceleration in direction X of the subject in the time domain
                 num     Units: 'g's (gravity of earth -> 9.80665 m/seg2)
 
 TimeDomainBodyAccelerationJerkSignalStandardDeviationY
-        Average of the Standard Deviations of the Jerk Signal of the Body 
+       
+       Average of the Standard Deviations of the Jerk Signal of the Body 
         Acceleration in direction Y of the subject in the time domain
                 num     Units: 'g's (gravity of earth -> 9.80665 m/seg2)
 
 TimeDomainBodyAccelerationJerkSignalStandardDeviationZ
+       
        Average of the Standard Deviations of the Jerk Signal of the Body 
         Acceleration in direction Z of the subject in the time domain
                 num     Units: 'g's (gravity of earth -> 9.80665 m/seg2) 
 
 TimeDomainBodyAngularVelocityMeanX
-        Average of the Means of the Angular Velocity in direction X of the 
+       
+       Average of the Means of the Angular Velocity in direction X of the 
         subject in the time domain
                 num     Units: rad/seg
 
 TimeDomainBodyAngularVelocityMeanY
-        Average of the Means of the Angular Velocity in direction Y of the 
+       
+       Average of the Means of the Angular Velocity in direction Y of the 
         subject in the time domain
                 num     Units: rad/seg
 
