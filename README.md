@@ -17,9 +17,11 @@ The R script does the following.
 2. Extracts only the measurements on the mean and standard deviation for each 
         measurement.
 3. Uses descriptive activity names to name the activities in the data set
-4. Appropriately labels the data set with descriptive variable names.
+4. Labels the data set with descriptive variable names.
 5. From the data set in step 4, creates a second, independent tidy data set 
          with the average of each variable for each activity and each subject.
+6. Saves the data set created in step 5 to a text file created with write.table() 
+        using row.name=FALSE and called tidyRunData.txt.
 
 The original data sets of test and training data have been merged to create only
 one data set of 180 observations and 68 variables. Only the mean and standard 
