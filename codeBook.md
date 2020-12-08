@@ -1,9 +1,12 @@
 CODE BOOK - Movement Measurements Project 2020
 
 Activity 
-        Activity performed by the subject
-                chr
-                WALKING
+       
+       Activity performed by the subject
+       
+       chr
+       
+       WALKING
                 WALKING_UPSTAIRS
                 WALKING_DOWNSTAIRS
                 SITTING
@@ -11,7 +14,8 @@ Activity
                 LAYING
                  
 Subject
-        Identifier of the subject that participated in the experiment
+       
+       Identifier of the subject that participated in the experiment
         
                 int
         
