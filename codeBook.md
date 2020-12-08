@@ -12,13 +12,18 @@ Activity
                  
 Subject
         Identifier of the subject that participated in the experiment
+        
                 int
-                1..30 Unique identifier assigned to the subject
+        
+        1..30 Unique identifier assigned to the subject
                  
 TimeDomainBodyAccelerationMeanX   
-        Average of the Means of the Linear Body Acceleration in direction X of 
+       
+       Average of the Means of the Linear Body Acceleration in direction X of 
         the subject in the time domain
-                num     Units: 'g's (gravity of earth -> 9.80665 m/seg2)
+       
+       num 
+       Units: 'g's (gravity of earth -> 9.80665 m/seg2)
 
 TimeDomainBodyAccelerationMeanY   
         Average of the Means of the Linear Body Acceleration in direction Y of 
