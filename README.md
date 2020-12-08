@@ -29,9 +29,13 @@ activity and each subject has been obtained, generating only 180 observations
 from the original 10299 recordings of the original data sets.
 
 The tidy data set has been created following the principles:
-Each variable must have its own column.
-Each observation must have its own row.
-Each value must have its own cell.
+
+- Each variable must have its own column.
+
+- Each observation must have its own row.
+
+- Each value must have its own cell.
+
 
 
 The project includes the following files:
