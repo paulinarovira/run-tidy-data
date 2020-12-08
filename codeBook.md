@@ -153,6 +153,7 @@ TimeDomainBodyAngularVelocityMeanY
                 num     Units: rad/seg
 
 TimeDomainBodyAngularVelocityMeanZ
+        
         Average of the Means of the Angular Velocity in direction Z of the 
         subject in the time domain
                 num     Units: rad/seg
@@ -242,6 +243,7 @@ TimeDomainBodyAccelerationJerkSignalMagnitudeMean
                 num     Units: 'g's (gravity of earth -> 9.80665 m/seg2)
 
 TimeDomainBodyAccelerationJerkSignalMagnitudeStandardDeviation 
+        
         Average of the Standard Deviations of Magnitude of Jerk Signal of 
         Body Acceleration of the subject in the time domain
                 num     Units: 'g's (gravity of earth -> 9.80665 m/seg2)
