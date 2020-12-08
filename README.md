@@ -1,4 +1,3 @@
-================================================
 Run Analyisis script (run-tidy-data)
 ===================================================
 Paulina Rovira  paulina.rovira@gmail.com
@@ -66,4 +65,5 @@ data <- read.table(file_path, header = TRUE)
 View(data)
 
 ===============================================
+
 Paulina Rovira. December 2020.
